@@ -28,13 +28,8 @@ public class Scanner01 {
         String name = input.next();
         System.out.println(name);
     }
+
 }
-
-
-
-
-
-
 
 
 
