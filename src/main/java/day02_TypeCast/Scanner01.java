@@ -1,19 +1,16 @@
 package day02_TypeCast;
 
-
 import java.util.Scanner;
 
 public class Scanner01 {
 
     public static void main(String[] args) {
 
-
         //Scanner Class: We will get data from user into our codes​
         //How to get data from user?
         //1.Step: Create an "object" from "Scanner Class"
         //Class Name      Object Name    Assignment Operator     new Keyword          Constructor ==> Class Name + ()
         Scanner            input                 =                 new                Scanner(System.in);
-
 
 
         //2.Step: Give a message to user about the data you ask
@@ -31,13 +28,8 @@ public class Scanner01 {
         String name = input.next();
         System.out.println(name);
     }
+
 }
-
-
-
-
-
-
 
 
 

@@ -3,8 +3,6 @@ package day02_TypeCast;
 public class TypeCasting {
 
 
-
-
     /*
 
     Type casting; converting a number primitive data type to another number primitive data type.For ex;
