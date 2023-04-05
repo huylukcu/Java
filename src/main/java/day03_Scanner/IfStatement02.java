@@ -1,6 +1,5 @@
 package day03_Scanner;
 
-
 import java.util.Scanner;
 
 public class IfStatement02 {
@@ -67,11 +66,3 @@ public class IfStatement02 {
 
     }
 }
-
-
-
-
-
-
-
-
