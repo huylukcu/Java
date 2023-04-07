@@ -43,10 +43,6 @@ public class Switch02 {
             default:
                 System.out.println("invalid month");
         }
-
-
     }
-
-
 }
 

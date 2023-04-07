@@ -4,20 +4,14 @@ import java.util.Scanner;
 
 public class Switch01 {
 
-
-    //switch statement does the same with "if-else if", it has just different syntax
-
-
     public static void main(String[] args) {
-
-
+        //switch statement does the same with "if-else if", it has just different syntax
         //get the number of the days from user and print the name of the day
         //for example; 1==> Sunday    2==>  Monday
 
         Scanner input = new Scanner(System.in);
         System.out.println("Enter day number");
         byte dayNumber = input.nextByte();
-
 
         //1. Way : "if--else if"
         if (dayNumber == 1) {

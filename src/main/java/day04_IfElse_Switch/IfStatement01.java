@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class IfStatement01 {
 
-
     public static void main(String[] args) {
 
         //Type a code, get age from user and decide which stage on it
@@ -21,24 +20,12 @@ public class IfStatement01 {
         System.out.println("Enter your age");
         byte age = input.nextByte();
 
-        if(age<0) {
+        if (age < 0) {
             System.out.println("invalid");
 
-        }else if(age<=4){
+        } else if (age <= 4) {
             System.out.println("baby");
-
         }
-
-
-
-
-
-
-
-
     }
-
-
-
 
 }

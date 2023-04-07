@@ -32,7 +32,6 @@ public class Switch03 {
             default:
                 System.out.println("not calculate");
 
-
         }
     }
 }
