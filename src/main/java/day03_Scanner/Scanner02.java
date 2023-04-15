@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Scanner02 {
 
-
     public static void main(String[] args) {
 
 
@@ -24,22 +23,6 @@ public class Scanner02 {
         System.out.println( "The area of the rectangle is : "+ width*lenght);
 
         System.out.println( "The are of the rectangle is :" + width);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
