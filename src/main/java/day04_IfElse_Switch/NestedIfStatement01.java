@@ -38,11 +38,5 @@ public class NestedIfStatement01 {
 
     }
 
-
-
-
-
-
-
         // charAt() method returns just a single character, data type in Java for single characters is "char".
         // Because of that I used char data type for the pwd container

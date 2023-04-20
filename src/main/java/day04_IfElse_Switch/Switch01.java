@@ -80,7 +80,6 @@ public class Switch01 {
             default :
                 System.out.println("invalid");
 
-
         }
     }
 }
