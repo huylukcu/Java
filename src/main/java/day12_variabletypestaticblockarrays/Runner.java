@@ -19,11 +19,6 @@ public class Runner {
 
         System.out.println(obj.multiply(4,8));
 
-
-
-
-
-
     }
 
 }
