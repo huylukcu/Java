@@ -38,6 +38,5 @@ public class StaticBlock01 {
         System.out.println("This is main method");
         String name="Ali Can";
 
-
     }
 }
