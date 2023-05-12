@@ -69,7 +69,6 @@ public class Ternary01 {
 
         System.out.println(answer);
 
-
     }
 }
 
