@@ -12,7 +12,6 @@ public class Switch02 {
         System.out.println("Enter month");
         byte monthNum = input.nextByte();
 
-
         switch (monthNum) {
 
             case 1:

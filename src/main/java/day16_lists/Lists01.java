@@ -65,7 +65,5 @@ public class Lists01 {
         List<Character> c = new ArrayList<>();
 
 
-
-
     }
 }

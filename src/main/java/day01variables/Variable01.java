@@ -1,4 +1,4 @@
-package day01variables;
+package day01_variables;
 public class Variable01 {
     public static void main(String[] args) {
         //Data Type    Variable Name  =  Value  ;
