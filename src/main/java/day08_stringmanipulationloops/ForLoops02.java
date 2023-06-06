@@ -14,7 +14,6 @@ public class ForLoops02 {
         System.out.println();
 
 
-
         //Ex.2: Type code to print unique characters in a String.  Hello==>Heo
 
         String s = "Hello";
@@ -26,16 +25,6 @@ public class ForLoops02 {
                  System.out.print(s.charAt(i));
              }
          }
-
-
-
-
-
-
-
-
-
-
 
     }
 }
