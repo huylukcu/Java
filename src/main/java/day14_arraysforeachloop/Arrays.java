@@ -34,7 +34,5 @@ public class Arrays {
         int element = 23;
 
 
-
-
     }
 }
