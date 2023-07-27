@@ -1,4 +1,4 @@
-package day02_TypeCast;
+package day02_typecasting;
 
 public class TypeCasting {
 
