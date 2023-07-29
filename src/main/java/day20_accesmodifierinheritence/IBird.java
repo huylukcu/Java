@@ -1,6 +1,6 @@
 package day20_accesmodifierinheritence;
 
-public class Bird extends Animal{
+public class IBird extends IAnimal {
 
     public void tweet(){
 

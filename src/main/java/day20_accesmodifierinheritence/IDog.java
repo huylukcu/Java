@@ -1,10 +1,11 @@
 package day20_accesmodifierinheritence;
 
-public class Dog extends Animal{
+public class IDog extends IAnimal {
 
     public void bark(){
 
     System.out.println("Dogs bark...");
-  }
+
+    }
     }
 

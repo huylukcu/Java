@@ -1,30 +1,31 @@
 package day20_accesmodifierinheritence;
 
-public class AnimalRunner {
+public class IAnimalRunner {
     public static void main(String[] args) {
 
         //Create a "Cat" object and see which methods can be used
 
-        Cat c = new Cat();                              //bold olan methodlar intelliJ den geliyor
+        ICat c = new ICat();                              //bold olan methodlar intelliJ den geliyor
         c.meow();
         c.drink();
         c.eat();
 
         //Create a "Dog" object and see which methods can be use
 
-        Dog d = new Dog();
+        IDog d = new IDog();
         d.bark();
         d.drink();
         d.eat();
 
         //Create a "Bird" object and see which methods can be used
 
-        Bird b = new Bird();
+        IBird b = new IBird();
         b.tweet();
         b.drink();
         b.eat();
 
-        Animal a = new Animal();   //create an object from Animal class
+        IAnimal a = new IAnimal();   //create an object from Animal class
+
 
         /*
         1)We use "inheritance";
